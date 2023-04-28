@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Lovers+Quarrel&family=Manrope:wght@200;300;400;500;600;700;800&family=Montserrat:wght@400;600&family=Oswald:wght@200;300;400;500;600;700&family=Pacifico&family=Poppins:wght@400;600&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0;
+}
+body{
+    margin:0;
+    padding: 0;
+}
+header{
+   height: 80px;
+    display:flex;
+    align-items: center;
+    padding: 0 20%;
+    justify-content: space-between;
+    background-color:#564F6F ;
+    
+}
+header a{
+    margin-right: 25px;
+
+}
+.logo{
+    font-family: 'Manrope', sans-serif;;
+    font-size: 20px;
+    font-weight: 800;
+    color:#DEDEDE;
+}
+.title{
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 20px;
+    font-weight: 400;
+    color:#DEDEDE;
+    text-decoration-line: underline;
+    text-decoration-style: dashed ;
+}
+.first{
+    width: 1440 px;
+    height: 612 px;
+    background-color: #D3B2F5;
+    }
+.img1{
+    width: 741px;
+    height: 387px;
+    float:inline-end;
+    margin: 62px 98px 163px 604px;
+   }
+   .first h1{
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 48px;
+    color: #282938;
+    padding: 10px 50px 30px 0; 
+    padding-top: 10%;
+    
+
+}
+.first h2{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 16px;
+    color: #282938;
+    padding: 10px 50px 30px 0; 
+    text-align:left;
+}
+.first h3{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 18px;
+    color: #850CFF;
+}
+.second{
+    background-color: #2D283E;
+    width: 1440 px;
+    height: 1190 px;
+    justify-content:center;
+}
+.block1{
+    display:inline-block;
+    padding: 20px;
+    width: 366px ;
+    height: 311.49px;
+    background-color:#D3B2F5;
+    margin: 20px; 
+    justify-content:center;
+
+}
+.block1 h2{
+    color: #282938;
+    font-family: 'Poppins';
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    width: 15em;
+    margin-top: 50px;
+}
+.block1 h3{
+    color: #282938;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    width: 15em;
+    margin: 20px;
+
+}
+.block2{
+    display:inline-block;
+    padding: 20px;
+    width: 366px ;
+    height: 311.49px;
+    background-color:#D3B2F5;
+    margin: 20px;
+    vertical-align: middle; 
+    justify-content:center;
+}.block3{
+    display:inline-block;
+    padding: 20px;
+    width: 366px ;
+    height: 311.49px;
+    background-color:#D3B2F5;
+    margin: 20px;
+    vertical-align: middle; 
+    justify-content:center;
+}.block4{
+    display:inline-block;
+    padding: 20px;
+    width: 366px ;
+    height: 311.49px;
+    background-color:#D3B2F5;
+    margin: 20px;
+    vertical-align: middle; 
+    justify-content:center;
+}
+.block5{
+    display:inline-block;
+    padding: 20px;
+    width: 366px ;
+    height: 311.49px;
+    background-color:#D3B2F5;
+    margin: 20px;
+    vertical-align: middle; ;
+    justify-content:center;
+}
+.block6{
+    display:inline-block;
+    padding: 20px;
+    width: 366px ;
+    height: 311.49px;
+    background-color:#D3B2F5;
+    margin: 20px;
+    vertical-align: middle; 
+    justify-content:center;
+}
+.third{
+    background-color:#D3B2F5;
+    width: 1465.8px;
+    height: 1302px;
+}
+.fourth{
+    background-image:url (".\C:\Users\User\Desktop\kodland\tarot\image 5.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1431px;
+    height: 1509px;
+}
+   
+
+
